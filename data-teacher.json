@@ -1,0 +1,32 @@
+{
+  "Data": [
+    {
+      "Id": "12",
+      "TeacherName": "cô loan",
+      "Course": "ASP.Net Core MVC",
+      "Phone": "113",
+      "Address": "sdxsacf"
+    },
+    {
+      "Id": "15",
+      "TeacherName": "thuy",
+      "Course": "PHP",
+      "Phone": "0123",
+      "Address": "ngh en"
+    },
+    {
+      "Id": "16",
+      "TeacherName": "Thuy",
+      "Course": null,
+      "Phone": "09553730",
+      "Address": "Nghe An"
+    },
+    {
+      "Id": "17",
+      "TeacherName": "Thuy",
+      "Course": "thuy",
+      "Phone": "09553730",
+      "Address": "Nghe An"
+    }
+  ]
+}

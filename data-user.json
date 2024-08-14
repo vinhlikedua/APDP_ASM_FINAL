@@ -1,0 +1,93 @@
+[
+  {
+    "Id": "1",
+    "UserName": "trieunt",
+    "Password": "123",
+    "Email": "admin@gmail.com",
+    "PhoneNumber": null
+  },
+  {
+    "Id": "2",
+    "UserName": "test",
+    "Password": "123",
+    "Email": "test@gmail.com",
+    "PhoneNumber": null
+  },
+  {
+    "Id": "3",
+    "UserName": "duy",
+    "Password": "123",
+    "Email": "duy@gmail.com",
+    "PhoneNumber": "09876"
+  },
+  {
+    "Id": "4",
+    "UserName": "nhanlt",
+    "Password": "123",
+    "Email": "nhan@gmail.com",
+    "PhoneNumber": "0987654"
+  },
+  {
+    "Id": "5",
+    "UserName": "vinhlv",
+    "Password": "123",
+    "Email": "vinh@gmail.com",
+    "PhoneNumber": "0935834"
+  },
+  {
+    "Id": "7",
+    "UserName": "VINH",
+    "Password": "123",
+    "Email": "john.doe@example.com1",
+    "PhoneNumber": "098"
+  },
+  {
+    "Id": "7",
+    "UserName": "anotheruser",
+    "Password": "Password123",
+    "Email": "anotheruser@example.com",
+    "PhoneNumber": "0987654321"
+  },
+  {
+    "Id": "8",
+    "UserName": "newuser",
+    "Password": "Password123",
+    "Email": "newuser@example.com",
+    "PhoneNumber": "0123456789"
+  },
+  {
+    "Id": "9",
+    "UserName": "existinguser",
+    "Password": "AnotherPassword123",
+    "Email": "newemail@example.com",
+    "PhoneNumber": "0987654321"
+  },
+  {
+    "Id": "10",
+    "UserName": "dat",
+    "Password": "123",
+    "Email": "nhan@gmail.com",
+    "PhoneNumber": "0987654222"
+  },
+  {
+    "Id": "11",
+    "UserName": "dung",
+    "Password": "123",
+    "Email": "dung@gmail.com",
+    "PhoneNumber": "0987654321"
+  },
+  {
+    "Id": "12",
+    "UserName": "hong",
+    "Password": "123",
+    "Email": "hong@gmail.com",
+    "PhoneNumber": "0121234567"
+  },
+  {
+    "Id": "13",
+    "UserName": "thaytrieu",
+    "Password": "1234",
+    "Email": "trieunt@gmail.com",
+    "PhoneNumber": "0987654321"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "3",
+    "Name": "Le Ngoc Chung",
+    "Email": "chung@gmail.com",
+    "Birthday": "2024-08-13T00:00:00",
+    "Phone": "0983846523",
+    "Address": "Bac Giang",
+    "Major": "1"
+  },
+  {
+    "Id": "4",
+    "Name": "Le Ngoc Nam",
+    "Email": "nam@gmail.com",
+    "Birthday": "0001-01-01T00:00:00",
+    "Phone": "9876543211",
+    "Address": "bg",
+    "Major": "4"
+  },
+  {
+    "Id": "5",
+    "Name": "le thi nhan",
+    "Email": "dmthuy@gmail.com",
+    "Birthday": "0001-01-01T00:00:00",
+    "Phone": "1234567890",
+    "Address": "Thanh Hóa",
+    "Major": "1"
+  },
+  {
+    "Id": "6",
+    "Name": "Ngoc Vinh",
+    "Email": "Vinh@1325",
+    "Birthday": "0001-01-01T00:00:00",
+    "Phone": "11",
+    "Address": "Bac giang",
+    "Major": "2"
+  },
+  {
+    "Id": "7",
+    "Name": "thuyngu",
+    "Email": "thuydepgai247@gmail.com",
+    "Birthday": "0001-01-01T00:00:00",
+    "Phone": "0145324",
+    "Address": "nghe an",
+    "Major": "4"
+  }
+]
